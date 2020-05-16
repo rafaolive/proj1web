@@ -1,4 +1,4 @@
-# Proj1web
+# proj1web
 projeto 1 da disciplina programação web
 
 semestre 2019-2
