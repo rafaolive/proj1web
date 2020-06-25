@@ -21,7 +21,7 @@ https://www.amoantix.com/todos-os-produtos/roupas <br>
 
 <br>
 <img width="600px" src="tel.jpg">
-**print tirado em 2020** <br>
-_atualizando o README em 2020. Teve algumas pequenas mudanças por conta de promoções e por ter mudado a coleção, mas o site continua com o mesmo layout (na época não tirei o print)_
+print tirado em 2020 <br>
+atualizando o README em 2020. Teve algumas pequenas mudanças por conta de promoções e por ter mudado a coleção, mas o site continua com o mesmo layout (na época não tirei o print)
 
 
