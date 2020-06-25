@@ -16,12 +16,12 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 
 ## Site escolhido
+https://www.amoantix.com/todos-os-produtos/roupas <br>
+**em setembro de 2019** 
 
-**em setembro de 2019** <br>
-https://www.amoantix.com/todos-os-produtos/roupas
-<br>
-**print tirado em 2020** <br>
 
-_atualizando o README em 2020. Teve algumas pequenas mudanças por conta de promoções e por ter mudado a coleção, mas o site continua com o mesmo layout (na época não tirei o print)_
+<p><img width="600px" src="tel.jpg"></p> 
+**print tirado em 2020** 
+<p>_atualizando o README em 2020. Teve algumas pequenas mudanças por conta de promoções e por ter mudado a coleção, mas o site continua com o mesmo layout (na época não tirei o print)_</p>
 
-<img width="600px" src="tel.jpg">
+
