@@ -1,7 +1,22 @@
-# projeto1
-PROJETO 1 - HTML e CSS: consiste da elaboração de uma página web de conteúdo estático, utilizando apenas as tecnologias HTML e CSS (sem o uso de frameworks) para construção de um layout de um website.
+<h3 align="center">
+    <img width="40px" src="/icon.png">
+   
 
-semestre 2019-2
+## 🌸 Sobre o projeto
 
-Site escolhido: https://www.amoantix.com/todos-os-produtos/roupas
+Projeto apresentado para a disciplina de programação web no segundo semestre de 2019.
+Consta na replicação da **primeira vista** de um layout de um **site estático**, utilizando apenas as tecnologias HTML e CSS. Deverá ser responsivo e com portabilidade entre navegadores.
+Não será permitido a utilização de frameworks durante esta estapa.
+
+
+## 💻 Tecnologias utilizadas
+As seguintes ferramentas foram usadas na construção do projeto:
+- HTML
+- CSS
+
+
+## Site escolhido
+
+***em setembro de 2019*** <br>
+https://www.amoantix.com/todos-os-produtos/roupas
 
