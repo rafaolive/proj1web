@@ -6,13 +6,24 @@ Consta na replicação da **primeira vista** de um layout de um **site estático
 Não será permitido a utilização de frameworks durante esta estapa.
 
 
+
 ## 💻 Tecnologias utilizadas
 As seguintes ferramentas foram usadas na construção do projeto:
 - HTML
 - CSS
 
 
-## Site escolhido
-https://www.amoantix.com/todos-os-produtos/roupas 
+## Resultado
 
+Primeira vista do site original:
+<p align="center">
+<img width="600px" src="telaoriginal.jpg"></p>
+
+[Site original](https://www.amoantix.com/todos-os-produtos/roupas)
+
+
+Resultado do projeto:
+
+<p align="center">
+<img width="600px" src="telaproj.jpg"></p>
 
